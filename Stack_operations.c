@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define max 10
+#define max 3
 int top=-1;
 int stack[max];
 void push(int data){
